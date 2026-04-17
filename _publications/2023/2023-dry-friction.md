@@ -8,7 +8,7 @@ abstract: >-
   Our contact handling including dry friction for rigid bodies enables the seamless integration of a fully-fledged rigid body simulator in SPH fluid simulations.
 cover:          /assets/images/covers/dry_friction.png
 authors:
-- Your Name
+- Timo Probst
 - Matthias Teschner
 links:
   Paper: https://doi.org/10.1111/cgf.14727

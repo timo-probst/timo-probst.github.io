@@ -8,7 +8,7 @@ abstract: >-
   Surface tension and a specialized friction formulation, together with an SPH pressure solver, allow us to realistically capture the behavior of droplets and other smaller scale fluid details.
 cover:          /assets/images/covers/surface_tension.png
 authors:
-- Your Name
+- Timo Probst
 - Matthias Teschner
 links:
   Paper: https://doi.org/10.1145/3708034
