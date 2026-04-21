@@ -1,6 +1,6 @@
 ---
 show: true
-width: 4
+width: 6
 date: 2026-04-19 00:01:00 +0800
 group: Surface Tension
 ---
