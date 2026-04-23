@@ -22,12 +22,13 @@ orcid: 0000-0002-2113-6527
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Fascinated by the behavior and interactions of fluids, deformable materials, and rigid bodies, my research focuses on developing physically based animation methods for a wide range of materials and objects. 
+    While my background lies in computer graphics, I value aesthetically compelling simulation results just as much as physically grounded realism.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    During my Ph.D., I investigated ways to expand the range of applications for particle-based simulation methods, with a particular focus on smoothed particle hydrodynamics. 
+    The steady flow of new ideas in the field, combined with advancing hardware capabilities and increasingly impressive simulation results, highlights the exciting future of computer animation and simulation. 
+    I'm happy to be part of all this!
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
