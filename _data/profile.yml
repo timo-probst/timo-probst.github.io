@@ -26,9 +26,10 @@ short_bio: >-
     While my background lies in computer graphics, I value aesthetically compelling simulation results just as much as physically grounded realism.
   </p>
   <p>
-    During my Ph.D., I investigated ways to expand the range of applications for particle-based simulation methods, with a particular focus on smoothed particle hydrodynamics. 
-    The steady flow of new ideas in the field, combined with advancing hardware capabilities and increasingly impressive simulation results, highlights the exciting future of computer animation and simulation. 
-    I'm happy to be part of all this!
+    My doctoral research focused on extending the range of particle-based simulation methods, with a particular emphasis on smoothed particle hydrodynamics.
+    I'm excited by the steady flow of new ideas from the community that result in simulation results with increasingly complex dynamics, geometry and material interactions. 
+    For me, not only the ongoing progress but the depth of still unsolved problems keep me in the field of computer animation and simulation. 
+    I aim to push the state of multi-material simulation in both robustness and physical fidelity through new solvers, discretizations and methods where existing approaches reach their limits.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
