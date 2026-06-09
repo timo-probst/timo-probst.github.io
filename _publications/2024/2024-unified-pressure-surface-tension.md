@@ -5,7 +5,7 @@ selected:       true
 pub:            "ACM Transactions on Graphics (presented at SIGGRAPH 2025)"
 pub_date:       "2024"
 abstract: >-
-  Surface tension and a specialized friction formulation, together with an SPH pressure solver, allow us to realistically capture the behavior of droplets and other smaller scale fluid details.
+  Surface tension and a specialized friction formulation, together with an SPH pressure solver, allow us to realistically capture the behavior of droplets and other smaller scale fluid detail.
 cover:          /assets/images/covers/surface_tension.png
 authors:
 - Timo Probst
