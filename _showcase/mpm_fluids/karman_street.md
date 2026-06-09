@@ -1,7 +1,15 @@
 ---
 show: true
-width: 12
+width: 4
 date: 2026-04-19 00:01:00 +0800
-group: MPM Fluids
+group: Exploration
 ---
-Drawing on my SPH background, I implemented and tested an MPM fluid solver to explore and better understand the range of discretization and simulation methods used in the field.<video autoplay muted loop preload="none" style="aspect-ratio: 16 / 9;" class="w-100 rounded-xl" src="{{ '/assets/videos/bulk.mp4' | relative_url }}">
+
+
+<div class="p-4">
+  <h5>MPM Fluids</h5>
+  <hr />
+  <p>
+    Coming from an SPH background, I implemented and tested an MPM fluid solver to expand my understanding of alternative discretization and simulation methods used in the field.    
+  </p>
+</div>
