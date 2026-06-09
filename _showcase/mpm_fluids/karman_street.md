@@ -1,15 +1,7 @@
 ---
 show: true
-width: 4
-date: 2026-04-19 00:01:00 +0800
+width: 6
+date: 2026-04-16 00:01:00 +0800
 group: Exploration
 ---
-
-
-<div class="p-4">
-  <h5>MPM Fluids</h5>
-  <hr />
-  <p>
-    Coming from an SPH background, I implemented and tested an MPM fluid solver to expand my understanding of alternative discretization and simulation methods used in the field.    
-  </p>
-</div>
+<video autoplay muted loop preload="none" style="aspect-ratio: 1 / 1;" class="w-100 rounded-xl" src="{{ '/assets/videos/karman_street.mp4' | relative_url }}">
