@@ -4,8 +4,8 @@ width: 8
 date: 2026-04-15 00:01:00 +0800
 group: Exploration
 ---
-<div class="w-100 rounded-xl-top">
-<video autoplay muted loop preload="none" style="aspect-ratio: 1700 / 286;" src="{{ '/assets/videos/karman_street.mp4' | relative_url }}">
+<div>
+<video autoplay muted loop preload="none" class="w-100 rounded-xl-top" style="aspect-ratio: 1700 / 286;" src="{{ '/assets/videos/karman_street.mp4' | relative_url }}">
 <div class="card-body">
   <h5>MPM Fluids</h5>
   <hr />

@@ -4,8 +4,8 @@ width: 6
 date: 2026-04-12 00:01:00 +0800
 group: Exploration
 ---
-<div class="w-100 rounded-xl-top">
-  <video autoplay muted loop preload="none" style="aspect-ratio: 1 / 1;" src="{{ '/assets/videos/lid_driven_cavity.mp4' | relative_url }}">
+<div>
+  <video autoplay muted loop preload="none" class="w-100 rounded-xl-top" style="aspect-ratio: 1 / 1;" src="{{ '/assets/videos/lid_driven_cavity.mp4' | relative_url }}">
   <div class="card-body">
     <p class="card-text">
       A lid driven cavity with the experimental SPH interpolation. To emphasize the turbulent fluid flow, only tracer particles are rendered here. 
