@@ -14,5 +14,5 @@ group: Exploration
     This way, the fluid does not compress over time.
   </p>
 </div>
-<video autoplay muted loop preload="none" class="w-100 rounded-xl-top" style="aspect-ratio: 1700 / 286;" src="{{ '/assets/videos/karman_street.mp4' | relative_url }}"></video>
+<video autoplay muted loop preload="none" class="w-100 rounded-xl-bottom" style="aspect-ratio: 1700 / 286;" src="{{ '/assets/videos/karman_street.mp4' | relative_url }}"></video>
 </div>
