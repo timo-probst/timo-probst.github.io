@@ -4,7 +4,7 @@ width: 8
 date: 2026-04-15 00:01:00 +0800
 group: Exploration
 ---
-<div>
+
 <div class="card-body">
   <h5>MPM Fluids</h5>
   <hr />
@@ -15,4 +15,3 @@ group: Exploration
   </p>
 </div>
 <video autoplay muted loop preload="none" class="w-100 rounded-xl-bottom" style="aspect-ratio: 1700 / 286;" src="{{ '/assets/videos/karman_street.mp4' | relative_url }}"></video>
-</div>
