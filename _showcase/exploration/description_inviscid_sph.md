@@ -1,6 +1,6 @@
 ---
 show: true
-width: 4
+width: 6
 date: 2026-04-13 00:01:00 +0800
 group: Exploration
 ---
