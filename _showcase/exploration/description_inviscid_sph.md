@@ -10,8 +10,8 @@ group: Exploration
   <h5>Inviscid SPH</h5>
   <hr />
   <p>
-    SPH methods, especially implicit pressure solvers with small kernel support, suffer from high artificial viscosity. 
+    SPH fluids, especially implicit pressure solvers with small kernel support, suffer from high artificial viscosity. 
     This is quite unfortunate, since they are otherwise robust, performant and intuitive to use for simulating free-surface flows.
-    I'm currently exploring some tweaks related to the SPH interpolation that result in a much less viscous fluid with comparable number of neighbors considered!
+    I'm currently exploring some tweaks related to the SPH interpolation that result in a much less viscous fluid with a comparable number of neighbors!
   </p>
 </div>
