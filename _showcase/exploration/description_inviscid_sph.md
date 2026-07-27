@@ -6,7 +6,7 @@ group: Exploration
 ---
 
 
-<div class="p-4">
+<div class="card-body">
   <h5>Inviscid SPH</h5>
   <hr />
   <p>
@@ -15,3 +15,4 @@ group: Exploration
     I'm currently exploring some tweaks related to the SPH interpolation that result in a much less viscous fluid with a comparable number of neighbors!
   </p>
 </div>
+<video autoplay muted loop preload="none" class="w-100 rounded-xl-bottom" style="aspect-ratio: 1700 / 286;" src="{{ '/assets/videos/karman_street_sph_grid.mp4' | relative_url }}"></video>
