@@ -9,4 +9,3 @@ data-src="{{ '/assets/videos/window_presentation.mp4' | relative_url }}"
 type="video/mp4" 
 src="{{ '/assets/videos/lucy.mp4' | relative_url }}">
 </video>
-<img data-src="{{ site.data.profile.portrait_url | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}"></img>
