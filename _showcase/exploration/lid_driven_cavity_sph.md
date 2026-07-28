@@ -5,9 +5,9 @@ date: 2026-04-12 00:01:00 +0800
 group: Exploration
 ---
 <div>
-  <video autoplay muted loop preload="none" style="aspect-ratio: 1 / 1;"  class="w-100 rounded-xl-top">
-    <source src="{{ '/assets/videos/lid_driven_cavity_dark.webm' | relative_url }}" type="video/webm">
-    <source src="{{ '/assets/videos/lid_driven_cavity_dark.mp4' | relative_url }}" type="video/mp4">
+  <video 
+  autoplay muted loop preload="none" style="aspect-ratio: 1 / 1;" class="lazy w-100 rounded-xl-top" 
+  data-src="{{ '/assets/videos/lid_driven_cavity_dark.mp4' | relative_url }}|video/mp4">
   </video>
   <div class="card-body">
     <p class="card-text">

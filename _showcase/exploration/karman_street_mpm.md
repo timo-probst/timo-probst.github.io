@@ -14,7 +14,7 @@ group: Exploration
     This way, the fluid does not compress over time. Through a particle sampling, complex geometries can be naturally incorporated into the simulation.
   </p>
 </div>
-<video autoplay muted loop preload="none" style="aspect-ratio: 1700 / 286;"  class="w-100 rounded-xl-bottom">
-  <source src="{{ '/assets/videos/karman_street.webm' | relative_url }}" type="video/webm">
-  <source src="{{ '/assets/videos/karman_street.mp4' | relative_url }}" type="video/mp4">
+<video 
+  autoplay muted loop preload="none" style="aspect-ratio: 1700 / 286;" class="lazy w-100 rounded-xl-bottom" 
+  data-src="{{ '/assets/videos/karman_street.mp4' | relative_url }}|video/mp4">
 </video>
