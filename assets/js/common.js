@@ -21,7 +21,8 @@ $(function () {
         }
     }
 
-    $('img.lazy, video.lazy, div.lazy:not(.always-load)').Lazy({visibleOnly: true, ...lazyLoadOptions});
+    $('video.lazy').Lazy();
+    $('img.lazy, div.lazy:not(.always-load)').Lazy({visibleOnly: true, ...lazyLoadOptions});
     $('div.lazy.always-load').Lazy({visibleOnly: false, ...lazyLoadOptions});
 
     $('[data-toggle="tooltip"]').tooltip()
