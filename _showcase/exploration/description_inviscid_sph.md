@@ -16,6 +16,6 @@ group: Exploration
   </p>
 </div>
 <video 
-  autoplay muted loop preload="none" style="aspect-ratio: 960 / 374;" class="lazy w-100 rounded-xl-bottom" 
+  autoplay muted loop playsinline preload="none" style="aspect-ratio: 960 / 374;" class="lazy w-100 rounded-xl-bottom" 
   data-src="{{ '/assets/videos/karman_street_sph_grid.mp4' | relative_url }}|video/mp4">
 </video>

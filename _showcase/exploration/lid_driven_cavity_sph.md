@@ -6,7 +6,7 @@ group: Exploration
 ---
 <div>
   <video 
-  autoplay muted loop preload="none" style="aspect-ratio: 1 / 1;" class="lazy w-100 rounded-xl-top" 
+  autoplay muted loop playsinline preload="none" style="aspect-ratio: 1 / 1;" class="lazy w-100 rounded-xl-top" 
   data-src="{{ '/assets/videos/lid_driven_cavity_dark.mp4' | relative_url }}|video/mp4">
   </video>
   <div class="card-body">

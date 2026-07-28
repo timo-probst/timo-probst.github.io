@@ -15,6 +15,6 @@ group: Exploration
   </p>
 </div>
 <video 
-  autoplay muted loop preload="none" style="aspect-ratio: 1700 / 286;" class="lazy w-100 rounded-xl-bottom" 
+  autoplay muted loop playsinline preload="none" style="aspect-ratio: 1700 / 286;" class="lazy w-100 rounded-xl-bottom" 
   data-src="{{ '/assets/videos/karman_street.mp4' | relative_url }}|video/mp4">
 </video>
