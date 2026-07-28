@@ -11,7 +11,10 @@ group: Exploration
   <p class="card-text">
     Coming from an SPH background, I implemented and tested an MPM fluid solver. 
     The solver uses a density-based incompressiblity contraint similar to <a href="https://doi.org/10.1109/TVCG.2019.2947437">Kugelstadt et al. (2021)</a> instead of solely relying on an estimated velocity divergence. 
-    This way, the fluid does not compress over time.
+    This way, the fluid does not compress over time. Through a particle sampling, complex geometries can be naturally incorporated into the simulation.
   </p>
 </div>
-<video autoplay muted loop preload="none" class="w-100 rounded-xl-bottom" style="aspect-ratio: 1700 / 286;" src="{{ '/assets/videos/karman_street.mp4' | relative_url }}"></video>
+<video autoplay muted loop preload="none" style="aspect-ratio: 1700 / 286;"  class="w-100 rounded-xl-bottom">
+  <source src="{{ '/assets/videos/karman_street.webm' | relative_url }}" type="video/webm">
+  <source src="{{ '/assets/videos/karman_street.mp4' | relative_url }}" type="video/mp4">
+</video>
